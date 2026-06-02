@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1400" viewBox="0 0 1400 1400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="1400" fill="url(#bg)"/>
+  
+  <!-- 圆形中心 -->
+  <circle cx="700" cy="700" r="300" fill="none" stroke="#e94560" stroke-width="6"/>
+  <circle cx="700" cy="700" r="200" fill="none" stroke="#0f3460" stroke-width="4"/>
+  
+  <!-- 播放三角 -->
+  <polygon points="640,560 640,840 860,700" fill="#e94560" opacity="0.9"/>
+  
+  <!-- 声波 -->
+  <path d="M520,700 Q520,600 560,550" fill="none" stroke="#e94560" stroke-width="3" opacity="0.5"/>
+  <path d="M480,700 Q480,530 560,480" fill="none" stroke="#e94560" stroke-width="2" opacity="0.3"/>
+  <path d="M880,700 Q880,600 840,550" fill="none" stroke="#e94560" stroke-width="3" opacity="0.5"/>
+  <path d="M920,700 Q920,530 840,480" fill="none" stroke="#e94560" stroke-width="2" opacity="0.3"/>
+  
+  <!-- 文字 -->
+  <text x="700" y="1060" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="72" font-weight="bold" fill="#ffffff" letter-spacing="4">山文的小仓库</text>
+  <text x="700" y="1130" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="36" fill="#8899aa" letter-spacing="6">PODCAST</text>
+</svg>
