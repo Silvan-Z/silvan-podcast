@@ -6,7 +6,11 @@
   
   
   
+  
+  
   <channel>
+    
+    
     
     
     
@@ -20,7 +24,11 @@
     
     
     
+    
+    
     <description>山文开车路上听的音频收藏——窦文涛、易经、人文社科，想到啥听啥。</description>
+    
+    
     
     
     
@@ -34,6 +42,8 @@
     
     
     
+    
+    
     <language>zh-cn</language>
     
     
@@ -41,7 +51,11 @@
     
     
     
-    <lastBuildDate>Tue, 02 Jun 2026 09:35:51 +0800</lastBuildDate>
+    
+    
+    <lastBuildDate>Tue, 02 Jun 2026 09:36:20 +0800</lastBuildDate>
+    
+    
     
     
     
@@ -55,7 +69,11 @@
     
     
     
+    
+    
     <itunes:image href="https://silvan-z.github.io/silvan-podcast/cover.png"/>
+    
+    
     
     
     
@@ -69,7 +87,10 @@
     
     
     
+    
+    
     <itunes:summary>山文开车路上听的音频收藏——窦文涛、易经、人文社科，想到啥听啥。</itunes:summary>
+    
     
     
     
@@ -78,7 +99,10 @@
   
     
     
+    
     <item>
+      
+      
       
       
       
@@ -88,7 +112,11 @@
       
       
       
+      
+      
       <description>易經的命運密碼：35歲後人要經歷3道坎，哲學典籍《周易》解讀</description>
+      
+      
       
       
       
@@ -98,7 +126,11 @@
       
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/001_易經35歲後人要經歷3道坎.m4a</guid>
+      
+      
       
       
       
@@ -108,12 +140,18 @@
       
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/001_易經35歲後人要經歷3道坎.m4a" length="19570931" type="audio/mp4"/>
       
       
       
       
+      
+      
       <itunes:duration>0:00</itunes:duration>
+      
+      
       
       
       
@@ -121,57 +159,113 @@
       <itunes:summary>易經的命運密碼：35歲後人要經歷3道坎，哲學典籍《周易》解讀</itunes:summary>
       
       
+      
+    
     
     
     </item>
     
     
+    
   
     
+    
     <item>
+      
+      
       
       
       <title>35岁才彻底醒悟！窦文涛谈人生感悟</title>
       
       
+      
+      
       <description>一位临终老人的真心话，戳穿无数人的一生，窦文涛当场泪崩</description>
+      
+      
       
       
       <link>https://silvan-z.github.io/silvan-podcast/episodes/002_35岁才彻底醒悟窦文涛谈人生感悟.m4a</link>
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/002_35岁才彻底醒悟窦文涛谈人生感悟.m4a</guid>
+      
+      
       
       
       <pubDate>Tue, 02 Jun 2026 09:35:26 +0800</pubDate>
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/002_35岁才彻底醒悟窦文涛谈人生感悟.m4a" length="55987158" type="audio/mp4"/>
+      
+      
       
       
       <itunes:duration>0:00</itunes:duration>
       
       
+      
+      
       <itunes:summary>一位临终老人的真心话，戳穿无数人的一生，窦文涛当场泪崩</itunes:summary>
+      
+      
+    
+    
+    </item>
+    
+    
+  
+    
+    <item>
+      
+      
+      <title>DeepSeek适配华为昇腾芯片</title>
+      
+      
+      <description>小岛浪吹：DeepSeek适配华为最新昇腾芯片，中国AI到底处于什么水平</description>
+      
+      
+      <link>https://silvan-z.github.io/silvan-podcast/episodes/003_DeepSeek适配华为昇腾芯片.m4a</link>
+      
+      
+      <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/003_DeepSeek适配华为昇腾芯片.m4a</guid>
+      
+      
+      <pubDate>Tue, 02 Jun 2026 09:35:51 +0800</pubDate>
+      
+      
+      <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/003_DeepSeek适配华为昇腾芯片.m4a" length="29602503" type="audio/mp4"/>
+      
+      
+      <itunes:duration>0:00</itunes:duration>
+      
+      
+      <itunes:summary>小岛浪吹：DeepSeek适配华为最新昇腾芯片，中国AI到底处于什么水平</itunes:summary>
       
     
     </item>
     
   
     <item>
-      <title>DeepSeek适配华为昇腾芯片</title>
-      <description>小岛浪吹：DeepSeek适配华为最新昇腾芯片，中国AI到底处于什么水平</description>
-      <link>https://silvan-z.github.io/silvan-podcast/episodes/003_DeepSeek适配华为昇腾芯片.m4a</link>
-      <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/003_DeepSeek适配华为昇腾芯片.m4a</guid>
-      <pubDate>Tue, 02 Jun 2026 09:35:51 +0800</pubDate>
-      <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/003_DeepSeek适配华为昇腾芯片.m4a" length="29602503" type="audio/mp4"/>
+      <title>中国不是没发现UFO（圆桌派）</title>
+      <description>圆桌派：中国不是没发现UFO，而是选择了另一种处理逻辑——窦文涛、梁文道、马未都</description>
+      <link>https://silvan-z.github.io/silvan-podcast/episodes/004_中国不是没发现UFO圆桌派.mp3</link>
+      <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/004_中国不是没发现UFO圆桌派.mp3</guid>
+      <pubDate>Tue, 02 Jun 2026 09:36:20 +0800</pubDate>
+      <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/004_中国不是没发现UFO圆桌派.mp3" length="51841197" type="audio/mpeg"/>
       <itunes:duration>0:00</itunes:duration>
-      <itunes:summary>小岛浪吹：DeepSeek适配华为最新昇腾芯片，中国AI到底处于什么水平</itunes:summary>
+      <itunes:summary>圆桌派：中国不是没发现UFO，而是选择了另一种处理逻辑——窦文涛、梁文道、马未都</itunes:summary>
     </item>
   </channel>
   
   
   
+  
+
 
 
 
