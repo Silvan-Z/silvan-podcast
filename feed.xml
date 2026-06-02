@@ -2,49 +2,103 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   
   
+  
+  
   <channel>
+    
+    
     
     
     <title>山文的小仓库</title>
     
     
+    
+    
     <description>山文开车路上听的音频收藏——窦文涛、易经、人文社科，想到啥听啥。</description>
+    
+    
     
     
     <link>https://silvan-z.github.io/silvan-podcast/</link>
     
     
+    
+    
     <language>zh-cn</language>
     
     
-    <lastBuildDate>Tue, 02 Jun 2026 09:35:01 +0800</lastBuildDate>
+    
+    
+    <lastBuildDate>Tue, 02 Jun 2026 09:35:26 +0800</lastBuildDate>
+    
+    
     
     
     <itunes:author>Silvan-Z</itunes:author>
     
     
+    
+    
     <itunes:image href="https://silvan-z.github.io/silvan-podcast/cover.png"/>
+    
+    
     
     
     <itunes:category text="Society &amp; Culture"/>
     
     
+    
+    
     <itunes:summary>山文开车路上听的音频收藏——窦文涛、易经、人文社科，想到啥听啥。</itunes:summary>
+    
     
 
     
   
+    
     <item>
+      
+      
       <title>易經：35歲後人要經歷3道坎</title>
+      
+      
       <description>易經的命運密碼：35歲後人要經歷3道坎，哲學典籍《周易》解讀</description>
+      
+      
       <link>https://silvan-z.github.io/silvan-podcast/episodes/001_易經35歲後人要經歷3道坎.m4a</link>
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/001_易經35歲後人要經歷3道坎.m4a</guid>
+      
+      
       <pubDate>Tue, 02 Jun 2026 09:35:01 +0800</pubDate>
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/001_易經35歲後人要經歷3道坎.m4a" length="19570931" type="audio/mp4"/>
+      
+      
       <itunes:duration>0:00</itunes:duration>
+      
+      
       <itunes:summary>易經的命運密碼：35歲後人要經歷3道坎，哲學典籍《周易》解讀</itunes:summary>
+      
+    
+    </item>
+    
+  
+    <item>
+      <title>35岁才彻底醒悟！窦文涛谈人生感悟</title>
+      <description>一位临终老人的真心话，戳穿无数人的一生，窦文涛当场泪崩</description>
+      <link>https://silvan-z.github.io/silvan-podcast/episodes/002_35岁才彻底醒悟窦文涛谈人生感悟.m4a</link>
+      <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/002_35岁才彻底醒悟窦文涛谈人生感悟.m4a</guid>
+      <pubDate>Tue, 02 Jun 2026 09:35:26 +0800</pubDate>
+      <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/002_35岁才彻底醒悟窦文涛谈人生感悟.m4a" length="55987158" type="audio/mp4"/>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:summary>一位临终老人的真心话，戳穿无数人的一生，窦文涛当场泪崩</itunes:summary>
     </item>
   </channel>
   
+  
+
 
 </rss>
