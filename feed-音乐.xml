@@ -5,10 +5,18 @@
     <description>山文路上听的歌——喜欢的就收进来。</description>
     <link>https://silvan-z.github.io/silvan-podcast/</link>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 03 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate>
     <itunes:author>Silvan-Z</itunes:author>
     <itunes:image href="https://silvan-z.github.io/silvan-podcast/cover.png"/>
     <itunes:category text="Music"/>
     <itunes:summary>山文路上听的歌——喜欢的就收进来。</itunes:summary>
+
+    <item>
+      <title>🎵 歌单准备中 ...</title>
+      <description>这里以后会放你收进来的歌。先占个位，后续添加了音乐就能正常听。</description>
+      <link>https://silvan-z.github.io/silvan-podcast/feed-音乐.xml</link>
+      <guid isPermaLink="false">placeholder-music-feed</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
   </channel>
 </rss>
