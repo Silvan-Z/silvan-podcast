@@ -14,7 +14,11 @@
   
   
   
+  
+  
   <channel>
+    
+    
     
     
     
@@ -44,7 +48,11 @@
     
     
     
+    
+    
     <description>山文的小仓库 · 音频 | 音乐 —— 路上听的都在这儿。</description>
+    
+    
     
     
     
@@ -74,6 +82,8 @@
     
     
     
+    
+    
     <language>zh-cn</language>
     
     
@@ -89,7 +99,11 @@
     
     
     
-    <lastBuildDate>Tue, 02 Jun 2026 17:52:36 +0800</lastBuildDate>
+    
+    
+    <lastBuildDate>Wed, 03 Jun 2026 09:18:53 +0800</lastBuildDate>
+    
+    
     
     
     
@@ -119,7 +133,11 @@
     
     
     
+    
+    
     <itunes:image href="https://silvan-z.github.io/silvan-podcast/cover.png"/>
+    
+    
     
     
     
@@ -149,7 +167,10 @@
     
     
     
+    
+    
     <itunes:summary>山文开车路上听的音频收藏——窦文涛、易经、人文社科，想到啥听啥。</itunes:summary>
+    
     
     
     
@@ -166,7 +187,10 @@
     
     
     
+    
     <item>
+      
+      
       
       
       
@@ -192,7 +216,11 @@
       
       
       
+      
+      
       <description>易經的命運密碼：35歲後人要經歷3道坎，哲學典籍《周易》解讀</description>
+      
+      
       
       
       
@@ -218,7 +246,11 @@
       
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/001_易經35歲後人要經歷3道坎.m4a</guid>
+      
+      
       
       
       
@@ -244,7 +276,11 @@
       
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/001_易經35歲後人要經歷3道坎.m4a" length="19570931" type="audio/mp4"/>
+      
+      
       
       
       
@@ -270,6 +306,8 @@
       
       
       
+      
+      
       <itunes:summary>易經的命運密碼：35歲後人要經歷3道坎，哲學典籍《周易》解讀</itunes:summary>
       
       
@@ -277,6 +315,8 @@
       
       
       
+      
+    
     
     
     
@@ -290,13 +330,17 @@
     
     
     
+    
   
     
     
     
     
     
+    
     <item>
+      
+      
       
       
       
@@ -318,7 +362,11 @@
       
       
       
+      
+      
       <description>一位临终老人的真心话，戳穿无数人的一生，窦文涛当场泪崩</description>
+      
+      
       
       
       
@@ -340,7 +388,11 @@
       
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/002_35岁才彻底醒悟窦文涛谈人生感悟.m4a</guid>
+      
+      
       
       
       
@@ -362,7 +414,11 @@
       
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/002_35岁才彻底醒悟窦文涛谈人生感悟.m4a" length="55987158" type="audio/mp4"/>
+      
+      
       
       
       
@@ -384,12 +440,16 @@
       
       
       
+      
+      
       <itunes:summary>一位临终老人的真心话，戳穿无数人的一生，窦文涛当场泪崩</itunes:summary>
       
       
       
       
       
+      
+    
     
     
     
@@ -401,12 +461,16 @@
     
     
     
+    
   
     
     
     
     
+    
     <item>
+      
+      
       
       
       
@@ -424,7 +488,11 @@
       
       
       
+      
+      
       <description>小岛浪吹：DeepSeek适配华为最新昇腾芯片，中国AI到底处于什么水平</description>
+      
+      
       
       
       
@@ -442,7 +510,11 @@
       
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/003_DeepSeek适配华为昇腾芯片.m4a</guid>
+      
+      
       
       
       
@@ -460,6 +532,8 @@
       
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/003_DeepSeek适配华为昇腾芯片.m4a" length="29602503" type="audio/mp4"/>
       
       
@@ -469,7 +543,11 @@
       
       
       
+      
+      
       <itunes:duration>0:00</itunes:duration>
+      
+      
       
       
       
@@ -483,6 +561,8 @@
       
       
       
+      
+    
     
     
     
@@ -492,11 +572,15 @@
     
     
     
+    
   
     
     
     
+    
     <item>
+      
+      
       
       
       
@@ -510,7 +594,11 @@
       
       
       
+      
+      
       <description>圆桌派：中国不是没发现UFO，而是选择了另一种处理逻辑——窦文涛、梁文道、马未都</description>
+      
+      
       
       
       
@@ -524,7 +612,11 @@
       
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/004_中国不是没发现UFO圆桌派.mp3</guid>
+      
+      
       
       
       
@@ -538,6 +630,8 @@
       
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/004_中国不是没发现UFO圆桌派.mp3" length="51841197" type="audio/mpeg"/>
       
       
@@ -545,7 +639,11 @@
       
       
       
+      
+      
       <itunes:duration>0:00</itunes:duration>
+      
+      
       
       
       
@@ -556,6 +654,8 @@
       
       
       
+      
+    
     
     
     
@@ -563,10 +663,14 @@
     
     
     
+    
   
     
     
+    
     <item>
+      
+      
       
       
       
@@ -576,7 +680,11 @@
       
       
       
+      
+      
       <description>中国已不需要奇迹来扶持！印度博主深度对比中美印：撕碎西方滤镜后，真相太扎心</description>
+      
+      
       
       
       
@@ -586,7 +694,11 @@
       
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/005_印度博主深度对比中美印.m4a</guid>
+      
+      
       
       
       
@@ -596,12 +708,18 @@
       
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/005_印度博主深度对比中美印.m4a" length="15800945" type="audio/mp4"/>
       
       
       
       
+      
+      
       <itunes:duration>0:00</itunes:duration>
+      
+      
       
       
       
@@ -609,43 +727,77 @@
       <itunes:summary>中国已不需要奇迹来扶持！印度博主深度对比中美印：撕碎西方滤镜后，真相太扎心</itunes:summary>
       
       
+      
+    
     
     
     </item>
     
     
+    
   
     
+    
     <item>
+      
+      
       
       
       <title>圆桌派 S7：分寸感</title>
       
       
+      
+      
       <description>成年人最顶级的修养：看破不说破。窦文涛对谈：为什么在这个时代，懂分寸比有钱更让你体面？</description>
+      
+      
       
       
       <link>https://silvan-z.github.io/silvan-podcast/episodes/音频/006_圆桌派_S7分寸感.m4a</link>
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/006_圆桌派_S7分寸感.m4a</guid>
+      
+      
       
       
       <pubDate>Tue, 02 Jun 2026 17:52:36 +0800</pubDate>
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/006_圆桌派_S7分寸感.m4a" length="83192989" type="audio/mp4"/>
+      
+      
       
       
       <itunes:duration>0:00</itunes:duration>
       
       
+      
+      
       <itunes:summary>成年人最顶级的修养：看破不说破。窦文涛对谈：为什么在这个时代，懂分寸比有钱更让你体面？</itunes:summary>
       
+      
+    
     
     </item>
     
+    
   
+  
+    <item>
+      <title>有风 - 是晚星呀</title>
+      <description>是晚星呀唱的有风</description>
+      <link>https://silvan-z.github.io/silvan-podcast/episodes/音乐/002_有风_-_是晚星呀.mp3</link>
+      <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音乐/002_有风_-_是晚星呀.mp3</guid>
+      <pubDate>Wed, 03 Jun 2026 09:18:53 +0800</pubDate>
+      <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音乐/002_有风_-_是晚星呀.mp3" length="3053395" type="audio/mpeg"/>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:summary>是晚星呀唱的有风</itunes:summary>
+    </item>
   </channel>
   
   
@@ -654,6 +806,8 @@
   
   
   
+  
+
 
 
 

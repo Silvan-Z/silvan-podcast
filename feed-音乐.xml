@@ -1,22 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" ?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  
+  
   <channel>
+    
+    
     <title>山文的小仓库 · 音乐</title>
+    
+    
     <description>山文路上听的歌——喜欢的就收进来。</description>
+    
+    
     <link>https://silvan-z.github.io/silvan-podcast/</link>
+    
+    
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0800</lastBuildDate>
+    
+    
+    <lastBuildDate>Wed, 03 Jun 2026 09:18:53 +0800</lastBuildDate>
+    
+    
     <itunes:author>Silvan-Z</itunes:author>
+    
+    
     <itunes:image href="https://silvan-z.github.io/silvan-podcast/cover.png"/>
+    
+    
     <itunes:category text="Music"/>
+    
+    
     <itunes:summary>山文路上听的歌——喜欢的就收进来。</itunes:summary>
+    
 
+    
     <item>
+      
+      
       <title>🎵 歌单准备中 ...</title>
+      
+      
       <description>这里以后会放你收进来的歌。先占个位，后续添加了音乐就能正常听。</description>
+      
+      
       <link>https://silvan-z.github.io/silvan-podcast/feed-音乐.xml</link>
+      
+      
       <guid isPermaLink="false">placeholder-music-feed</guid>
+      
+      
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0800</pubDate>
+      
+    
+    </item>
+    
+  
+    <item>
+      <title>有风 - 是晚星呀</title>
+      <description>是晚星呀唱的有风</description>
+      <link>https://silvan-z.github.io/silvan-podcast/episodes/音乐/002_有风_-_是晚星呀.mp3</link>
+      <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音乐/002_有风_-_是晚星呀.mp3</guid>
+      <pubDate>Wed, 03 Jun 2026 09:18:53 +0800</pubDate>
+      <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音乐/002_有风_-_是晚星呀.mp3" length="3053395" type="audio/mpeg"/>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:summary>是晚星呀唱的有风</itunes:summary>
     </item>
   </channel>
+  
+
 </rss>
