@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>山文的小仓库 · 音乐</title>
+    <description>山文路上听的歌——喜欢的就收进来。</description>
+    <link>https://silvan-z.github.io/silvan-podcast/</link>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 03 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <itunes:author>Silvan-Z</itunes:author>
+    <itunes:image href="https://silvan-z.github.io/silvan-podcast/cover.png"/>
+    <itunes:category text="Music"/>
+    <itunes:summary>山文路上听的歌——喜欢的就收进来。</itunes:summary>
+  </channel>
+</rss>
