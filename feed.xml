@@ -137,7 +137,7 @@
     
     
     
-    <lastBuildDate>Mon, 15 Jun 2026 15:41:29 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 16:41:23 +0800</lastBuildDate>
     
     
     
@@ -1374,7 +1374,17 @@
       <itunes:duration>0:00</itunes:duration>
       <itunes:summary>小岛不亏聊证监会最严处罚、中国人买美股的未来，以及他在美股的投资收益。</itunes:summary>
     </item>
-  </channel>
+  
+  <item>
+    <title>大冰告诉你42岁中年人怎么活</title>
+    <pubDate>Sun, 21 Jun 2026 16:41:23 +0800</pubDate>
+    <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/大冰-42岁中年人怎么活.m4a" length="20688613" type="audio/mp4"/>
+    <itunes:duration>21:14</itunes:duration>
+    <description>大冰和42岁中年人连麦，聊人到中年要怎么活。全程高能。</description>
+    <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/大冰-42岁中年人怎么活.m4a</guid>
+  </item>
+
+</channel>
   
   
   
