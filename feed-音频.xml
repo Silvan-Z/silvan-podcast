@@ -10,7 +10,11 @@
   
   
   
+  
+  
   <channel>
+    
+    
     
     
     
@@ -32,7 +36,11 @@
     
     
     
+    
+    
     <description>山文开车路上听的音频——窦文涛、易经、人文社科，想到啥听啥。</description>
+    
+    
     
     
     
@@ -54,6 +62,8 @@
     
     
     
+    
+    
     <language>zh-cn</language>
     
     
@@ -65,7 +75,11 @@
     
     
     
-    <lastBuildDate>Sat, 27 Jun 2026 12:12:45 +0800</lastBuildDate>
+    
+    
+    <lastBuildDate>Thu, 27 Aug 2026 23:29:47 +0800</lastBuildDate>
+    
+    
     
     
     
@@ -87,7 +101,11 @@
     
     
     
+    
+    
     <itunes:image href="https://silvan-z.github.io/silvan-podcast/cover.png"/>
+    
+    
     
     
     
@@ -109,6 +127,8 @@
     
     
     
+    
+    
     <itunes:summary>山文开车路上听的音频——窦文涛、易经、人文社科，想到啥听啥。</itunes:summary>
     
     
@@ -120,7 +140,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -142,7 +166,11 @@
       
       
       
+      
+      
       <description>易經的命運密碼：35歲後人要經歷3道坎，哲學典籍《周易》解讀</description>
+      
+      
       
       
       
@@ -164,7 +192,11 @@
       
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/001_易經35歲後人要經歷3道坎.m4a</guid>
+      
+      
       
       
       
@@ -186,7 +218,11 @@
       
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/001_易經35歲後人要經歷3道坎.m4a" length="19570931" type="audio/mp4"/>
+      
+      
       
       
       
@@ -208,12 +244,16 @@
       
       
       
+      
+      
       <itunes:summary>易經的命運密碼：35歲後人要經歷3道坎，哲學典籍《周易》解讀</itunes:summary>
       
       
       
       
       
+      
+    
     
     
     
@@ -230,7 +270,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -252,7 +296,11 @@
       
       
       
+      
+      
       <description>一位临终老人的真心话，戳穿无数人的一生，窦文涛当场泪崩</description>
+      
+      
       
       
       
@@ -274,7 +322,11 @@
       
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/002_35岁才彻底醒悟窦文涛谈人生感悟.m4a</guid>
+      
+      
       
       
       
@@ -296,7 +348,11 @@
       
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/002_35岁才彻底醒悟窦文涛谈人生感悟.m4a" length="55987158" type="audio/mp4"/>
+      
+      
       
       
       
@@ -318,12 +374,16 @@
       
       
       
+      
+      
       <itunes:summary>一位临终老人的真心话，戳穿无数人的一生，窦文涛当场泪崩</itunes:summary>
       
       
       
       
       
+      
+    
     
     
     
@@ -340,7 +400,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -362,7 +426,11 @@
       
       
       
+      
+      
       <description>小岛浪吹：DeepSeek适配华为最新昇腾芯片，中国AI到底处于什么水平</description>
+      
+      
       
       
       
@@ -384,7 +452,11 @@
       
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/003_DeepSeek适配华为昇腾芯片.m4a</guid>
+      
+      
       
       
       
@@ -406,7 +478,11 @@
       
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/003_DeepSeek适配华为昇腾芯片.m4a" length="29602503" type="audio/mp4"/>
+      
+      
       
       
       
@@ -428,12 +504,16 @@
       
       
       
+      
+      
       <itunes:summary>小岛浪吹：DeepSeek适配华为最新昇腾芯片，中国AI到底处于什么水平</itunes:summary>
       
       
       
       
       
+      
+    
     
     
     
@@ -450,7 +530,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -472,7 +556,11 @@
       
       
       
+      
+      
       <description>圆桌派：中国不是没发现UFO，而是选择了另一种处理逻辑——窦文涛、梁文道、马未都</description>
+      
+      
       
       
       
@@ -494,7 +582,11 @@
       
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/004_中国不是没发现UFO圆桌派.mp3</guid>
+      
+      
       
       
       
@@ -516,7 +608,11 @@
       
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/004_中国不是没发现UFO圆桌派.mp3" length="51841197" type="audio/mpeg"/>
+      
+      
       
       
       
@@ -538,12 +634,16 @@
       
       
       
+      
+      
       <itunes:summary>圆桌派：中国不是没发现UFO，而是选择了另一种处理逻辑——窦文涛、梁文道、马未都</itunes:summary>
       
       
       
       
       
+      
+    
     
     
     
@@ -560,7 +660,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -582,7 +686,11 @@
       
       
       
+      
+      
       <description>中国已不需要奇迹来扶持！印度博主深度对比中美印：撕碎西方滤镜后，真相太扎心</description>
+      
+      
       
       
       
@@ -604,7 +712,11 @@
       
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/005_印度博主深度对比中美印.m4a</guid>
+      
+      
       
       
       
@@ -626,7 +738,11 @@
       
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/005_印度博主深度对比中美印.m4a" length="15800945" type="audio/mp4"/>
+      
+      
       
       
       
@@ -648,12 +764,16 @@
       
       
       
+      
+      
       <itunes:summary>中国已不需要奇迹来扶持！印度博主深度对比中美印：撕碎西方滤镜后，真相太扎心</itunes:summary>
       
       
       
       
       
+      
+    
     
     
     
@@ -670,7 +790,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -692,7 +816,11 @@
       
       
       
+      
+      
       <description>成年人最顶级的修养：看破不说破。窦文涛对谈：为什么在这个时代，懂分寸比有钱更让你体面？</description>
+      
+      
       
       
       
@@ -714,7 +842,11 @@
       
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/006_圆桌派_S7分寸感.m4a</guid>
+      
+      
       
       
       
@@ -736,7 +868,11 @@
       
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/006_圆桌派_S7分寸感.m4a" length="83192989" type="audio/mp4"/>
+      
+      
       
       
       
@@ -758,12 +894,16 @@
       
       
       
+      
+      
       <itunes:summary>成年人最顶级的修养：看破不说破。窦文涛对谈：为什么在这个时代，懂分寸比有钱更让你体面？</itunes:summary>
       
       
       
       
       
+      
+    
     
     
     
@@ -775,12 +915,16 @@
     
     
     
+    
   
     
     
     
     
+    
     <item>
+      
+      
       
       
       
@@ -798,7 +942,11 @@
       
       
       
+      
+      
       <description>窦文涛、许戈辉、马家辉谈人生感悟——不会玩的人，后半生往往最辛苦。来自B站/YouTube</description>
+      
+      
       
       
       
@@ -816,7 +964,11 @@
       
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/007_人到50岁才明白不会玩的人后半生往往最辛苦窦文涛许戈辉马家辉.m4a</guid>
+      
+      
       
       
       
@@ -834,6 +986,8 @@
       
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/007_人到50岁才明白不会玩的人后半生往往最辛苦窦文涛许戈辉马家辉.m4a" length="43373708" type="audio/mp4"/>
       
       
@@ -843,7 +997,11 @@
       
       
       
+      
+      
       <itunes:duration>0:00</itunes:duration>
+      
+      
       
       
       
@@ -857,6 +1015,8 @@
       
       
       
+      
+    
     
     
     
@@ -866,11 +1026,15 @@
     
     
     
+    
   
     
     
     
+    
     <item>
+      
+      
       
       
       
@@ -884,7 +1048,11 @@
       
       
       
+      
+      
       <description>圆桌派聊天节目，窦文涛主持，周轶君聊夫妻关系、白头偕老、女性与爱情。</description>
+      
+      
       
       
       
@@ -898,7 +1066,11 @@
       
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/008_圆桌派夫妻能否白头周轶君谈爱情与婚姻.m4a</guid>
+      
+      
       
       
       
@@ -912,6 +1084,8 @@
       
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/008_圆桌派夫妻能否白头周轶君谈爱情与婚姻.m4a" length="57124220" type="audio/mp4"/>
       
       
@@ -919,7 +1093,11 @@
       
       
       
+      
+      
       <itunes:duration>0:00</itunes:duration>
+      
+      
       
       
       
@@ -930,6 +1108,8 @@
       
       
       
+      
+    
     
     
     
@@ -937,10 +1117,14 @@
     
     
     
+    
   
     
     
+    
     <item>
+      
+      
       
       
       
@@ -950,7 +1134,11 @@
       
       
       
+      
+      
       <description>小岛不亏聊证监会最严处罚、中国人买美股的未来，以及他在美股的投资收益。</description>
+      
+      
       
       
       
@@ -960,7 +1148,11 @@
       
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/009_小岛不亏证监会最严处罚来袭中国人还能买美股吗.m4a</guid>
+      
+      
       
       
       
@@ -970,12 +1162,18 @@
       
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/009_小岛不亏证监会最严处罚来袭中国人还能买美股吗.m4a" length="30033981" type="audio/mp4"/>
       
       
       
       
+      
+      
       <itunes:duration>0:00</itunes:duration>
+      
+      
       
       
       
@@ -983,94 +1181,164 @@
       <itunes:summary>小岛不亏聊证监会最严处罚、中国人买美股的未来，以及他在美股的投资收益。</itunes:summary>
       
       
+      
+    
     
     
     </item>
     
     
+    
   
   
+    
     
     <item>
       
       
+      
     
+      
       
       <title>大冰告诉你42岁中年人怎么活</title>
       
       
+      
     
+      
       
       <pubDate>Sun, 21 Jun 2026 16:41:23 +0800</pubDate>
       
       
+      
     
+      
       
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/大冰-42岁中年人怎么活.m4a" length="20688613" type="audio/mp4"/>
       
       
+      
     
+      
       
       <itunes:duration>21:14</itunes:duration>
       
       
+      
     
+      
       
       <description>大冰和42岁中年人连麦，聊人到中年要怎么活。全程高能。</description>
       
       
+      
     
+      
       
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/大冰-42岁中年人怎么活.m4a</guid>
       
       
+      
   
+    
     
     </item>
     
     
+    
 
 
     
+    
     <item>
+      
+      
       
       
       <title>小岛浪吹：大家千万不要再移民新加坡</title>
       
       
+      
+      
       <description>小岛大浪吹-非正经政经频道。42.5万人已看。聊移民新加坡的那些坑，大富豪们别看。21分30秒。</description>
+      
+      
       
       
       <link>https://silvan-z.github.io/silvan-podcast/episodes/音频/011_小岛浪吹大家千万不要再移民新加坡.m4a</link>
       
       
+      
+      
       <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/011_小岛浪吹大家千万不要再移民新加坡.m4a</guid>
+      
+      
       
       
       <pubDate>Sun, 21 Jun 2026 17:03:37 +0800</pubDate>
       
       
+      
+      
       <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/011_小岛浪吹大家千万不要再移民新加坡.m4a" length="20882459" type="audio/mp4"/>
+      
+      
       
       
       <itunes:duration>0:00</itunes:duration>
       
       
+      
+      
       <itunes:summary>小岛大浪吹-非正经政经频道。42.5万人已看。聊移民新加坡的那些坑，大富豪们别看。21分30秒。</itunes:summary>
+      
+      
+    
+    
+    </item>
+    
+    
+  
+    
+    <item>
+      
+      
+      <title>拼多多财报崩了，中国消费危机出现！小翠版消费降级三阶段理论</title>
+      
+      
+      <description>小翠时政财经第852期。拼多多一季度营收+11%但净利润-15%，小翠提出消费降级三阶段理论：替代消费→内卷消费→防御型消费。对比日本通缩，分析中国消费信心崩塌的深层原因。</description>
+      
+      
+      <link>https://silvan-z.github.io/silvan-podcast/episodes/音频/012_拼多多财报崩了中国消费危机出现小翠版消费降级三阶段理论.m4a</link>
+      
+      
+      <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/012_拼多多财报崩了中国消费危机出现小翠版消费降级三阶段理论.m4a</guid>
+      
+      
+      <pubDate>Sat, 27 Jun 2026 12:12:45 +0800</pubDate>
+      
+      
+      <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/012_拼多多财报崩了中国消费危机出现小翠版消费降级三阶段理论.m4a" length="5939047" type="audio/mp4"/>
+      
+      
+      <itunes:duration>0:00</itunes:duration>
+      
+      
+      <itunes:summary>小翠时政财经第852期。拼多多一季度营收+11%但净利润-15%，小翠提出消费降级三阶段理论：替代消费→内卷消费→防御型消费。对比日本通缩，分析中国消费信心崩塌的深层原因。</itunes:summary>
       
     
     </item>
     
   
     <item>
-      <title>拼多多财报崩了，中国消费危机出现！小翠版消费降级三阶段理论</title>
-      <description>小翠时政财经第852期。拼多多一季度营收+11%但净利润-15%，小翠提出消费降级三阶段理论：替代消费→内卷消费→防御型消费。对比日本通缩，分析中国消费信心崩塌的深层原因。</description>
-      <link>https://silvan-z.github.io/silvan-podcast/episodes/音频/012_拼多多财报崩了中国消费危机出现小翠版消费降级三阶段理论.m4a</link>
-      <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/012_拼多多财报崩了中国消费危机出现小翠版消费降级三阶段理论.m4a</guid>
-      <pubDate>Sat, 27 Jun 2026 12:12:45 +0800</pubDate>
-      <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/012_拼多多财报崩了中国消费危机出现小翠版消费降级三阶段理论.m4a" length="5939047" type="audio/mp4"/>
+      <title>比尔盖茨：动荡的AI时代来了，我们此刻的选择至关重要</title>
+      <description>比尔·盖茨长文全整理：AI要么成为最伟大的公平器，要么成为最大的不公之源。三大风险、六大好处、三条行动计划、四个根本问题。语音朗读。</description>
+      <link>https://silvan-z.github.io/silvan-podcast/episodes/音频/013_比尔盖茨动荡的AI时代来了我们此刻的选择至关重要.m4a</link>
+      <guid isPermaLink="true">https://silvan-z.github.io/silvan-podcast/episodes/音频/013_比尔盖茨动荡的AI时代来了我们此刻的选择至关重要.m4a</guid>
+      <pubDate>Thu, 27 Aug 2026 23:29:47 +0800</pubDate>
+      <enclosure url="https://silvan-z.github.io/silvan-podcast/episodes/音频/013_比尔盖茨动荡的AI时代来了我们此刻的选择至关重要.m4a" length="18226225" type="audio/mp4"/>
       <itunes:duration>0:00</itunes:duration>
-      <itunes:summary>小翠时政财经第852期。拼多多一季度营收+11%但净利润-15%，小翠提出消费降级三阶段理论：替代消费→内卷消费→防御型消费。对比日本通缩，分析中国消费信心崩塌的深层原因。</itunes:summary>
+      <itunes:summary>比尔·盖茨长文全整理：AI要么成为最伟大的公平器，要么成为最大的不公之源。三大风险、六大好处、三条行动计划、四个根本问题。语音朗读。</itunes:summary>
     </item>
   </channel>
   
@@ -1078,6 +1346,8 @@
   
   
   
+  
+
 
 
 
